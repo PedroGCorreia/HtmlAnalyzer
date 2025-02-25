@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **tml Analyzer** is a Java program that, given a URL, extracts the text contained in the deepest level of the HTML structure of the document. If the HTML is malformed, that is, there are tags that were not closed correctly, the progam returns the message `"malformed HTML"`.
+The **Html Analyzer** is a Java program that, given a URL, extracts the text contained in the deepest level of the HTML structure of the document. If the HTML is malformed, that is, there are tags that were not closed correctly, the progam returns the message `"malformed HTML"`.
 
 ## Code Structure
 
